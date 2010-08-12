@@ -1,0 +1,22 @@
+/Users/Joshua/Documents/DribbbleWrapper/Shot.m:75: warning: property 'title' requires method '-title' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/Joshua/Documents/DribbbleWrapper/Shot.m:75: warning: property 'title' requires the method 'setTitle:' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/Joshua/Documents/DribbbleWrapper/Shot.m:75: warning: property 'url' requires method '-url' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/Joshua/Documents/DribbbleWrapper/Shot.m:75: warning: property 'url' requires the method 'setUrl:' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/Joshua/Documents/DribbbleWrapper/Shot.m:75: warning: property 'image_url' requires method '-image_url' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/Joshua/Documents/DribbbleWrapper/Shot.m:75: warning: property 'image_url' requires the method 'setImage_url:' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/Joshua/Documents/DribbbleWrapper/Shot.m:75: warning: property 'image_teaser_url' requires method '-image_teaser_url' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/Joshua/Documents/DribbbleWrapper/Shot.m:75: warning: property 'image_teaser_url' requires the method 'setImage_teaser_url:' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/Joshua/Documents/DribbbleWrapper/Shot.m:75: warning: property 'width' requires method '-width' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/Joshua/Documents/DribbbleWrapper/Shot.m:75: warning: property 'width' requires the method 'setWidth:' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/Joshua/Documents/DribbbleWrapper/Shot.m:75: warning: property 'height' requires method '-height' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/Joshua/Documents/DribbbleWrapper/Shot.m:75: warning: property 'height' requires the method 'setHeight:' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/Joshua/Documents/DribbbleWrapper/Shot.m:75: warning: property 'views_count' requires method '-views_count' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/Joshua/Documents/DribbbleWrapper/Shot.m:75: warning: property 'views_count' requires the method 'setViews_count:' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/Joshua/Documents/DribbbleWrapper/Shot.m:75: warning: property 'likes_count' requires method '-likes_count' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/Joshua/Documents/DribbbleWrapper/Shot.m:75: warning: property 'likes_count' requires the method 'setLikes_count:' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/Joshua/Documents/DribbbleWrapper/Shot.m:75: warning: property 'comments_count' requires method '-comments_count' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/Joshua/Documents/DribbbleWrapper/Shot.m:75: warning: property 'comments_count' requires the method 'setComments_count:' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/Joshua/Documents/DribbbleWrapper/Shot.m:75: warning: property 'rebounds_count' requires method '-rebounds_count' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/Joshua/Documents/DribbbleWrapper/Shot.m:75: warning: property 'rebounds_count' requires the method 'setRebounds_count:' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/Joshua/Documents/DribbbleWrapper/Shot.m:75: warning: property 'created_at' requires method '-created_at' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/Joshua/Documents/DribbbleWrapper/Shot.m:75: warning: property 'created_at' requires the method 'setCreated_at:' to be defined - use @synthesize, @dynamic or provide a method implementation

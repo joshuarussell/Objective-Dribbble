@@ -1,0 +1,1218 @@
+TDribbbleWrapper
+v7
+r0
+t303277403.406540
+cCheck dependencies
+cProcessPCH /var/folders/e7/e7ZBYbBBEzWFZiB2pQa64k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DribbbleWrapper_Prefix-aktxogsrtpfswzdaeayzmbhesdxz/DribbbleWrapper_Prefix.pch.gch DribbbleWrapper_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/main.o /Users/Joshua/Documents/DribbbleWrapper/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/Base.o /Users/Joshua/Documents/DribbbleWrapper/Base.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/Shot.o /Users/Joshua/Documents/DribbbleWrapper/Shot.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/NSObject+SBJSON.o /Users/Joshua/Documents/DribbbleWrapper/JSON/NSObject+SBJSON.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/NSString+SBJSON.o /Users/Joshua/Documents/DribbbleWrapper/JSON/NSString+SBJSON.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/SBJsonBase.o /Users/Joshua/Documents/DribbbleWrapper/JSON/SBJsonBase.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/SBJsonParser.o /Users/Joshua/Documents/DribbbleWrapper/JSON/SBJsonParser.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/SBJsonWriter.o /Users/Joshua/Documents/DribbbleWrapper/JSON/SBJsonWriter.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/Player.o /Users/Joshua/Documents/DribbbleWrapper/Player.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Joshua/Documents/DribbbleWrapper/build/Debug/DribbbleWrapper normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C36F45700000000000000EE
+t1278669911
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C342FC000000000000013E6
+t1278488512
+s5094
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C11730A0000000000B37440
+t1276211978
+s11760704
+
+N/Users/Joshua/Desktop/DribbbleWrapper/Base.h
+c000000004C633BC600000000000001EA
+t1281571782
+s490
+i<Foundation/Foundation.h>
+
+N/Users/Joshua/Desktop/DribbbleWrapper/Base.m
+c000000004C633E1C00000000000008AE
+t1281572380
+s2222
+i"Base.h"
+i"JSON.h"
+
+N/Users/Joshua/Desktop/DribbbleWrapper/DribbbleWrapper.m
+c000000004C633D63000000000000069E
+t1281572195
+s1694
+i<Foundation/Foundation.h>
+i"Shot.h"
+i"Player.h"
+
+N/Users/Joshua/Desktop/DribbbleWrapper/DribbbleWrapper_Prefix.pch
+c000000004C625A0B00000000000000AC
+t1281513995
+s172
+i<Foundation/Foundation.h>
+
+N/Users/Joshua/Desktop/DribbbleWrapper/JSON/JSON.h
+c000000004C6265FB0000000000000B43
+t1281517051
+s2883
+i"SBJsonParser.h"
+i"SBJsonWriter.h"
+i"NSObject+SBJSON.h"
+i"NSString+SBJSON.h"
+
+N/Users/Joshua/Desktop/DribbbleWrapper/JSON/NSObject+SBJSON.h
+c000000004C535269000000000000085F
+t1280529001
+s2143
+i<Foundation/Foundation.h>
+
+N/Users/Joshua/Desktop/DribbbleWrapper/JSON/NSObject+SBJSON.m
+c000000004C535269000000000000077D
+t1280529001
+s1917
+i"NSObject+SBJSON.h"
+i"SBJsonWriter.h"
+
+N/Users/Joshua/Desktop/DribbbleWrapper/JSON/NSString+SBJSON.h
+c000000004C53526900000000000007F0
+t1280529001
+s2032
+i<Foundation/Foundation.h>
+
+N/Users/Joshua/Desktop/DribbbleWrapper/JSON/NSString+SBJSON.m
+c000000004C535269000000000000075D
+t1280529001
+s1885
+i"NSString+SBJSON.h"
+i"SBJsonParser.h"
+
+N/Users/Joshua/Desktop/DribbbleWrapper/JSON/SBJsonBase.h
+c000000004C5352690000000000000B82
+t1280529001
+s2946
+i<Foundation/Foundation.h>
+
+N/Users/Joshua/Desktop/DribbbleWrapper/JSON/SBJsonBase.m
+c000000004C5352690000000000000AC1
+t1280529001
+s2753
+i"SBJsonBase.h"
+
+N/Users/Joshua/Desktop/DribbbleWrapper/JSON/SBJsonParser.h
+c000000004C5352690000000000000C8F
+t1280529001
+s3215
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/Joshua/Desktop/DribbbleWrapper/JSON/SBJsonParser.m
+c000000004C5352690000000000003B7A
+t1280529001
+s15226
+i"SBJsonParser.h"
+
+N/Users/Joshua/Desktop/DribbbleWrapper/JSON/SBJsonWriter.h
+c000000004C53526900000000000011D9
+t1280529001
+s4569
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/Joshua/Desktop/DribbbleWrapper/JSON/SBJsonWriter.m
+c000000004C53526900000000000020D8
+t1280529001
+s8408
+i"SBJsonWriter.h"
+
+N/Users/Joshua/Desktop/DribbbleWrapper/Player.h
+c000000004C633ABA00000000000005C8
+t1281571514
+s1480
+i<Foundation/Foundation.h>
+i"Base.h"
+
+N/Users/Joshua/Desktop/DribbbleWrapper/Player.m
+c000000004C633E080000000000000B4B
+t1281572360
+s2891
+i"Player.h"
+
+N/Users/Joshua/Desktop/DribbbleWrapper/Shot.h
+c000000004C633C370000000000000650
+t1281571895
+s1616
+i<Foundation/Foundation.h>
+i"Base.h"
+
+N/Users/Joshua/Desktop/DribbbleWrapper/Shot.m
+c000000004C633E0100000000000006C7
+t1281572353
+s1735
+i"Shot.h"
+i"Base.h"
+
+N/Users/Joshua/Desktop/DribbbleWrapper/build/Debug/DribbbleWrapper
+t1281572381
+s73240
+
+N/Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/Base.o
+t1281572381
+s16476
+
+N/Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/DribbbleWrapper.LinkFileList
+c000000004C63313D000000000000048C
+t1281569085
+s1164
+
+N/Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/DribbbleWrapper.o
+t1281572228
+s11836
+
+N/Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/NSObject+SBJSON.o
+t1281569087
+s8104
+
+N/Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/NSString+SBJSON.o
+t1281569087
+s8004
+
+N/Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/Player.o
+t1281572381
+s32764
+
+N/Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/SBJsonBase.o
+t1281569087
+s15376
+
+N/Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/SBJsonParser.o
+t1281569087
+s39016
+
+N/Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/SBJsonWriter.o
+t1281569087
+s30680
+
+N/Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/Shot.o
+t1281572381
+s29624
+
+N/Users/Joshua/Documents/DribbbleWrapper/Base.h
+c000000004C6360E400000000000001E9
+t1281581284
+s489
+i<Foundation/Foundation.h>
+
+N/Users/Joshua/Documents/DribbbleWrapper/Base.m
+c000000004C6369F2000000000000088B
+t1281583602
+s2187
+i"Base.h"
+i"JSON.h"
+
+N/Users/Joshua/Documents/DribbbleWrapper/DribbbleWrapper.m
+c000000004C6347E8000000000000095B
+t1281574888
+s2395
+i<Foundation/Foundation.h>
+i"Shot.h"
+i"Player.h"
+
+N/Users/Joshua/Documents/DribbbleWrapper/DribbbleWrapper_Prefix.pch
+c000000004C625A0B00000000000000AC
+t1281513995
+s172
+i<Foundation/Foundation.h>
+
+N/Users/Joshua/Documents/DribbbleWrapper/JSON/JSON.h
+c000000004C6265FB0000000000000B43
+t1281517051
+s2883
+i"SBJsonParser.h"
+i"SBJsonWriter.h"
+i"NSObject+SBJSON.h"
+i"NSString+SBJSON.h"
+
+N/Users/Joshua/Documents/DribbbleWrapper/JSON/NSObject+SBJSON.h
+c000000004C535269000000000000085F
+t1280529001
+s2143
+i<Foundation/Foundation.h>
+
+N/Users/Joshua/Documents/DribbbleWrapper/JSON/NSObject+SBJSON.m
+c000000004C535269000000000000077D
+t1280529001
+s1917
+i"NSObject+SBJSON.h"
+i"SBJsonWriter.h"
+
+N/Users/Joshua/Documents/DribbbleWrapper/JSON/NSString+SBJSON.h
+c000000004C53526900000000000007F0
+t1280529001
+s2032
+i<Foundation/Foundation.h>
+
+N/Users/Joshua/Documents/DribbbleWrapper/JSON/NSString+SBJSON.m
+c000000004C535269000000000000075D
+t1280529001
+s1885
+i"NSString+SBJSON.h"
+i"SBJsonParser.h"
+
+N/Users/Joshua/Documents/DribbbleWrapper/JSON/SBJsonBase.h
+c000000004C5352690000000000000B82
+t1280529001
+s2946
+i<Foundation/Foundation.h>
+
+N/Users/Joshua/Documents/DribbbleWrapper/JSON/SBJsonBase.m
+c000000004C5352690000000000000AC1
+t1280529001
+s2753
+i"SBJsonBase.h"
+
+N/Users/Joshua/Documents/DribbbleWrapper/JSON/SBJsonParser.h
+c000000004C5352690000000000000C8F
+t1280529001
+s3215
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/Joshua/Documents/DribbbleWrapper/JSON/SBJsonParser.m
+c000000004C5352690000000000003B7A
+t1280529001
+s15226
+i"SBJsonParser.h"
+
+N/Users/Joshua/Documents/DribbbleWrapper/JSON/SBJsonWriter.h
+c000000004C53526900000000000011D9
+t1280529001
+s4569
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/Joshua/Documents/DribbbleWrapper/JSON/SBJsonWriter.m
+c000000004C53526900000000000020D8
+t1280529001
+s8408
+i"SBJsonWriter.h"
+
+N/Users/Joshua/Documents/DribbbleWrapper/Player.h
+c000000004C636CBD0000000000000293
+t1281584317
+s659
+i<Foundation/Foundation.h>
+i"Base.h"
+
+N/Users/Joshua/Documents/DribbbleWrapper/Player.m
+c000000004C636CC20000000000000910
+t1281584322
+s2320
+i"Player.h"
+
+N/Users/Joshua/Documents/DribbbleWrapper/Shot.h
+c000000004C636CE7000000000000025D
+t1281584359
+s605
+i<Foundation/Foundation.h>
+i"Base.h"
+
+N/Users/Joshua/Documents/DribbbleWrapper/Shot.m
+c000000004C636CDE00000000000005C5
+t1281584350
+s1477
+i"Shot.h"
+i"Base.h"
+
+N/Users/Joshua/Documents/DribbbleWrapper/build/Debug/DribbbleWrapper
+t1281584603
+s57056
+
+N/Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/Base.o
+t1281583602
+s16476
+
+N/Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/DribbbleWrapper.LinkFileList
+c000000004C6347F70000000000000493
+t1281574903
+s1171
+
+N/Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/DribbbleWrapper.o
+t1281574890
+s12892
+
+N/Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/NSObject+SBJSON.o
+t1281572551
+s8112
+
+N/Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/NSString+SBJSON.o
+t1281572551
+s8004
+
+N/Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/Player.o
+t1281584323
+s16072
+
+N/Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/SBJsonBase.o
+t1281572551
+s15376
+
+N/Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/SBJsonParser.o
+t1281572551
+s39032
+
+N/Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/SBJsonWriter.o
+t1281572551
+s30688
+
+N/Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/Shot.o
+t1281584359
+s14028
+
+N/Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/main.o
+t1281584603
+s12252
+
+N/Users/Joshua/Documents/DribbbleWrapper/main.m
+c000000004C636DDA0000000000000952
+t1281584602
+s2386
+i<Foundation/Foundation.h>
+i"Shot.h"
+i"Player.h"
+
+N/Users/Joshua/Documents/ObjectiveDribble/Base.h
+c000000004C6360E400000000000001E9
+t1281581284
+s489
+i<Foundation/Foundation.h>
+
+N/Users/Joshua/Documents/ObjectiveDribble/Base.m
+c000000004C6369F2000000000000088B
+t1281583602
+s2187
+i"Base.h"
+i"JSON.h"
+
+N/Users/Joshua/Documents/ObjectiveDribble/DribbbleWrapper_Prefix.pch
+c000000004C625A0B00000000000000AC
+t1281513995
+s172
+i<Foundation/Foundation.h>
+
+N/Users/Joshua/Documents/ObjectiveDribble/JSON/JSON.h
+c000000004C6265FB0000000000000B43
+t1281517051
+s2883
+i"SBJsonParser.h"
+i"SBJsonWriter.h"
+i"NSObject+SBJSON.h"
+i"NSString+SBJSON.h"
+
+N/Users/Joshua/Documents/ObjectiveDribble/JSON/NSObject+SBJSON.h
+c000000004C535269000000000000085F
+t1280529001
+s2143
+i<Foundation/Foundation.h>
+
+N/Users/Joshua/Documents/ObjectiveDribble/JSON/NSObject+SBJSON.m
+c000000004C535269000000000000077D
+t1280529001
+s1917
+i"NSObject+SBJSON.h"
+i"SBJsonWriter.h"
+
+N/Users/Joshua/Documents/ObjectiveDribble/JSON/NSString+SBJSON.h
+c000000004C53526900000000000007F0
+t1280529001
+s2032
+i<Foundation/Foundation.h>
+
+N/Users/Joshua/Documents/ObjectiveDribble/JSON/NSString+SBJSON.m
+c000000004C535269000000000000075D
+t1280529001
+s1885
+i"NSString+SBJSON.h"
+i"SBJsonParser.h"
+
+N/Users/Joshua/Documents/ObjectiveDribble/JSON/SBJsonBase.h
+c000000004C5352690000000000000B82
+t1280529001
+s2946
+i<Foundation/Foundation.h>
+
+N/Users/Joshua/Documents/ObjectiveDribble/JSON/SBJsonBase.m
+c000000004C5352690000000000000AC1
+t1280529001
+s2753
+i"SBJsonBase.h"
+
+N/Users/Joshua/Documents/ObjectiveDribble/JSON/SBJsonParser.h
+c000000004C5352690000000000000C8F
+t1280529001
+s3215
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/Joshua/Documents/ObjectiveDribble/JSON/SBJsonParser.m
+c000000004C5352690000000000003B7A
+t1280529001
+s15226
+i"SBJsonParser.h"
+
+N/Users/Joshua/Documents/ObjectiveDribble/JSON/SBJsonWriter.h
+c000000004C53526900000000000011D9
+t1280529001
+s4569
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/Joshua/Documents/ObjectiveDribble/JSON/SBJsonWriter.m
+c000000004C53526900000000000020D8
+t1280529001
+s8408
+i"SBJsonWriter.h"
+
+N/Users/Joshua/Documents/ObjectiveDribble/Player.h
+c000000004C636CBD0000000000000293
+t1281584317
+s659
+i<Foundation/Foundation.h>
+i"Base.h"
+
+N/Users/Joshua/Documents/ObjectiveDribble/Player.m
+c000000004C636CC20000000000000910
+t1281584322
+s2320
+i"Player.h"
+
+N/Users/Joshua/Documents/ObjectiveDribble/Shot.h
+c000000004C636CE7000000000000025D
+t1281584359
+s605
+i<Foundation/Foundation.h>
+i"Base.h"
+
+N/Users/Joshua/Documents/ObjectiveDribble/Shot.m
+c000000004C636CDE00000000000005C5
+t1281584350
+s1477
+i"Shot.h"
+i"Base.h"
+
+N/Users/Joshua/Documents/ObjectiveDribble/build/Debug/DribbbleWrapper
+t1281584603
+s57056
+
+N/Users/Joshua/Documents/ObjectiveDribble/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/Base.o
+t1281583602
+s16476
+
+N/Users/Joshua/Documents/ObjectiveDribble/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/DribbbleWrapper.LinkFileList
+c000000004C6347F70000000000000493
+t1281574903
+s1171
+
+N/Users/Joshua/Documents/ObjectiveDribble/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/NSObject+SBJSON.o
+t1281572551
+s8112
+
+N/Users/Joshua/Documents/ObjectiveDribble/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/NSString+SBJSON.o
+t1281572551
+s8004
+
+N/Users/Joshua/Documents/ObjectiveDribble/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/Player.o
+t1281584323
+s16072
+
+N/Users/Joshua/Documents/ObjectiveDribble/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/SBJsonBase.o
+t1281572551
+s15376
+
+N/Users/Joshua/Documents/ObjectiveDribble/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/SBJsonParser.o
+t1281572551
+s39032
+
+N/Users/Joshua/Documents/ObjectiveDribble/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/SBJsonWriter.o
+t1281572551
+s30688
+
+N/Users/Joshua/Documents/ObjectiveDribble/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/Shot.o
+t1281584359
+s14028
+
+N/Users/Joshua/Documents/ObjectiveDribble/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/main.o
+t1281584603
+s12252
+
+N/Users/Joshua/Documents/ObjectiveDribble/main.m
+c000000004C636DDA0000000000000952
+t1281584602
+s2386
+i<Foundation/Foundation.h>
+i"Shot.h"
+i"Player.h"
+
+N/Users/joshuarussell/Desktop/DribbbleWrapper/Base.h
+c000000004C631982000000000000020D
+t1281563010
+s525
+i<Foundation/Foundation.h>
+
+N/Users/joshuarussell/Desktop/DribbbleWrapper/Base.m
+c000000004C631C6300000000000008CC
+t1281563747
+s2252
+i"Base.h"
+i"JSON.h"
+
+N/Users/joshuarussell/Desktop/DribbbleWrapper/DribbbleWrapper.m
+c000000004C6322280000000000000373
+t1281565224
+s883
+i<Foundation/Foundation.h>
+i"Shot.h"
+i"Player.h"
+
+N/Users/joshuarussell/Desktop/DribbbleWrapper/DribbbleWrapper_Prefix.pch
+c000000004C625A0B00000000000000AC
+t1281513995
+s172
+i<Foundation/Foundation.h>
+
+N/Users/joshuarussell/Desktop/DribbbleWrapper/JSON/JSON.h
+c000000004C6265FB0000000000000B43
+t1281517051
+s2883
+i"SBJsonParser.h"
+i"SBJsonWriter.h"
+i"NSObject+SBJSON.h"
+i"NSString+SBJSON.h"
+
+N/Users/joshuarussell/Desktop/DribbbleWrapper/JSON/NSObject+SBJSON.h
+c000000004C535269000000000000085F
+t1280529001
+s2143
+i<Foundation/Foundation.h>
+
+N/Users/joshuarussell/Desktop/DribbbleWrapper/JSON/NSObject+SBJSON.m
+c000000004C535269000000000000077D
+t1280529001
+s1917
+i"NSObject+SBJSON.h"
+i"SBJsonWriter.h"
+
+N/Users/joshuarussell/Desktop/DribbbleWrapper/JSON/NSString+SBJSON.h
+c000000004C53526900000000000007F0
+t1280529001
+s2032
+i<Foundation/Foundation.h>
+
+N/Users/joshuarussell/Desktop/DribbbleWrapper/JSON/NSString+SBJSON.m
+c000000004C535269000000000000075D
+t1280529001
+s1885
+i"NSString+SBJSON.h"
+i"SBJsonParser.h"
+
+N/Users/joshuarussell/Desktop/DribbbleWrapper/JSON/SBJsonBase.h
+c000000004C5352690000000000000B82
+t1280529001
+s2946
+i<Foundation/Foundation.h>
+
+N/Users/joshuarussell/Desktop/DribbbleWrapper/JSON/SBJsonBase.m
+c000000004C5352690000000000000AC1
+t1280529001
+s2753
+i"SBJsonBase.h"
+
+N/Users/joshuarussell/Desktop/DribbbleWrapper/JSON/SBJsonParser.h
+c000000004C5352690000000000000C8F
+t1280529001
+s3215
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/joshuarussell/Desktop/DribbbleWrapper/JSON/SBJsonParser.m
+c000000004C5352690000000000003B7A
+t1280529001
+s15226
+i"SBJsonParser.h"
+
+N/Users/joshuarussell/Desktop/DribbbleWrapper/JSON/SBJsonWriter.h
+c000000004C53526900000000000011D9
+t1280529001
+s4569
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/joshuarussell/Desktop/DribbbleWrapper/JSON/SBJsonWriter.m
+c000000004C53526900000000000020D8
+t1280529001
+s8408
+i"SBJsonWriter.h"
+
+N/Users/joshuarussell/Desktop/DribbbleWrapper/Player.h
+c000000004C6322180000000000000567
+t1281565208
+s1383
+i<Foundation/Foundation.h>
+i"Base.h"
+
+N/Users/joshuarussell/Desktop/DribbbleWrapper/Player.m
+c000000004C63221B00000000000005B1
+t1281565211
+s1457
+i"Player.h"
+
+N/Users/joshuarussell/Desktop/DribbbleWrapper/Shot.h
+c000000004C631EDF000000000000063F
+t1281564383
+s1599
+i<Foundation/Foundation.h>
+i"Base.h"
+
+N/Users/joshuarussell/Desktop/DribbbleWrapper/Shot.m
+c000000004C631C260000000000000651
+t1281563686
+s1617
+i"Shot.h"
+i"Base.h"
+
+N/Users/joshuarussell/Desktop/DribbbleWrapper/build/Debug/DribbbleWrapper
+t1281565225
+s72928
+
+N/Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/Base.o
+t1281563747
+s17296
+
+N/Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/DribbbleWrapper.LinkFileList
+c000000004C631EA400000000000004CB
+t1281564324
+s1227
+
+N/Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/DribbbleWrapper.o
+t1281565225
+s9464
+
+N/Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/NSObject+SBJSON.o
+t1281517040
+s8120
+
+N/Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/NSString+SBJSON.o
+t1281517040
+s8020
+
+N/Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/Player.o
+t1281565212
+s29216
+
+N/Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/SBJsonBase.o
+t1281517040
+s15392
+
+N/Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/SBJsonParser.o
+t1281517041
+s39040
+
+N/Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/SBJsonWriter.o
+t1281517041
+s30696
+
+N/Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/Shot.o
+t1281564452
+s29344
+
+N/var/folders/7o/7op+-0n0HueMdeJybqIJR++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DribbbleWrapper_Prefix-fzobovztiqxfqacrjchonfgmgdqo/DribbbleWrapper_Prefix.pch.gch
+t1281514073
+s41401104
+
+N/var/folders/e7/e7ZBYbBBEzWFZiB2pQa64k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DribbbleWrapper_Prefix-aktxogsrtpfswzdaeayzmbhesdxz/DribbbleWrapper_Prefix.pch.gch
+t1281572551
+s41401104
+
+N/var/folders/e7/e7ZBYbBBEzWFZiB2pQa64k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DribbbleWrapper_Prefix-fitycslrciipiddvzwobusbmelyh/DribbbleWrapper_Prefix.pch.gch
+t1281569087
+s41401104
+
+N/var/folders/e7/e7ZBYbBBEzWFZiB2pQa64k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DribbbleWrapper_Prefix-hesuhhbaprmptzgvzdxvxowaqwhj/DribbbleWrapper_Prefix.pch.gch
+t2
+s0
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies303277403#303277403#0(0"0(0#1#0"8617839648#0"0#
+
+CCompileC build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/Base.o /Users/Joshua/Desktop/DribbbleWrapper/Base.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303265181.031391
+e303265181.373626
+r1
+xCompileC
+xbuild/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/Base.o
+x/Users/Joshua/Desktop/DribbbleWrapper/Base.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/Joshua/Desktop/DribbbleWrapper/Base.m303265181#303265181#0(0"0(0#0#44"/Users/Joshua/Desktop/DribbbleWrapper/Base.m8616511488#1599"    cd /Users/Joshua/Desktop/DribbbleWrapper    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-generated-files.hmap -I/Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-own-target-headers.hmap -I/Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-all-target-headers.hmap -iquote /Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-project-headers.hmap -F/Users/Joshua/Desktop/DribbbleWrapper/build/Debug -I/Users/Joshua/Desktop/DribbbleWrapper/build/Debug/include -I/Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources/x86_64 -I/Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources -include /var/folders/e7/e7ZBYbBBEzWFZiB2pQa64k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DribbbleWrapper_Prefix-fitycslrciipiddvzwobusbmelyh/DribbbleWrapper_Prefix.pch -c /Users/Joshua/Desktop/DribbbleWrapper/Base.m -o /Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/Base.o0#
+
+CCompileC build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/Base.o /Users/Joshua/Documents/DribbbleWrapper/Base.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303276402.435970
+e303276402.660352
+r1
+xCompileC
+xbuild/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/Base.o
+x/Users/Joshua/Documents/DribbbleWrapper/Base.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/Joshua/Documents/DribbbleWrapper/Base.m303276402#303276402#0(0"0(0#0#46"/Users/Joshua/Documents/DribbbleWrapper/Base.m8606185888#1621"    cd /Users/Joshua/Documents/DribbbleWrapper    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-generated-files.hmap -I/Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-own-target-headers.hmap -I/Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-all-target-headers.hmap -iquote /Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-project-headers.hmap -F/Users/Joshua/Documents/DribbbleWrapper/build/Debug -I/Users/Joshua/Documents/DribbbleWrapper/build/Debug/include -I/Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources/x86_64 -I/Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources -include /var/folders/e7/e7ZBYbBBEzWFZiB2pQa64k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DribbbleWrapper_Prefix-aktxogsrtpfswzdaeayzmbhesdxz/DribbbleWrapper_Prefix.pch -c /Users/Joshua/Documents/DribbbleWrapper/Base.m -o /Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/Base.o0#
+
+CCompileC build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/Base.o /Users/Joshua/Documents/ObjectiveDribble/Base.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/Base.o /Users/joshuarussell/Desktop/DribbbleWrapper/Base.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303256547.883370
+e303256548.007696
+r1
+xCompileC
+xbuild/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/Base.o
+x/Users/joshuarussell/Desktop/DribbbleWrapper/Base.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/joshuarussell/Desktop/DribbbleWrapper/Base.m303256547#303256548#0(0"0(0#0#51"/Users/joshuarussell/Desktop/DribbbleWrapper/Base.m8613180224#1676"    cd /Users/joshuarussell/Desktop/DribbbleWrapper    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-generated-files.hmap -I/Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-own-target-headers.hmap -I/Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-all-target-headers.hmap -iquote /Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-project-headers.hmap -F/Users/joshuarussell/Desktop/DribbbleWrapper/build/Debug -I/Users/joshuarussell/Desktop/DribbbleWrapper/build/Debug/include -I/Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources/x86_64 -I/Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources -include /var/folders/7o/7op+-0n0HueMdeJybqIJR++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DribbbleWrapper_Prefix-fzobovztiqxfqacrjchonfgmgdqo/DribbbleWrapper_Prefix.pch -c /Users/joshuarussell/Desktop/DribbbleWrapper/Base.m -o /Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/Base.o0#
+
+CCompileC build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/DribbbleWrapper.o /Users/Joshua/Desktop/DribbbleWrapper/DribbbleWrapper.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303265028.522515
+e303265028.693408
+r1
+xCompileC
+xbuild/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/DribbbleWrapper.o
+x/Users/Joshua/Desktop/DribbbleWrapper/DribbbleWrapper.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/Joshua/Desktop/DribbbleWrapper/DribbbleWrapper.m303265028#303265028#0(0"0(0#0#55"/Users/Joshua/Desktop/DribbbleWrapper/DribbbleWrapper.m8620745056#1621"    cd /Users/Joshua/Desktop/DribbbleWrapper    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-generated-files.hmap -I/Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-own-target-headers.hmap -I/Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-all-target-headers.hmap -iquote /Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-project-headers.hmap -F/Users/Joshua/Desktop/DribbbleWrapper/build/Debug -I/Users/Joshua/Desktop/DribbbleWrapper/build/Debug/include -I/Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources/x86_64 -I/Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources -include /var/folders/e7/e7ZBYbBBEzWFZiB2pQa64k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DribbbleWrapper_Prefix-fitycslrciipiddvzwobusbmelyh/DribbbleWrapper_Prefix.pch -c /Users/Joshua/Desktop/DribbbleWrapper/DribbbleWrapper.m -o /Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/DribbbleWrapper.o0#
+
+CCompileC build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/DribbbleWrapper.o /Users/Joshua/Documents/DribbbleWrapper/DribbbleWrapper.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303267690.605760
+e303267690.829630
+r1
+xCompileC
+xbuild/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/DribbbleWrapper.o
+x/Users/Joshua/Documents/DribbbleWrapper/DribbbleWrapper.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/Joshua/Documents/DribbbleWrapper/DribbbleWrapper.m303267690#303267690#0(0"0(0#0#57"/Users/Joshua/Documents/DribbbleWrapper/DribbbleWrapper.m8608115264#1643"    cd /Users/Joshua/Documents/DribbbleWrapper    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-generated-files.hmap -I/Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-own-target-headers.hmap -I/Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-all-target-headers.hmap -iquote /Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-project-headers.hmap -F/Users/Joshua/Documents/DribbbleWrapper/build/Debug -I/Users/Joshua/Documents/DribbbleWrapper/build/Debug/include -I/Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources/x86_64 -I/Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources -include /var/folders/e7/e7ZBYbBBEzWFZiB2pQa64k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DribbbleWrapper_Prefix-aktxogsrtpfswzdaeayzmbhesdxz/DribbbleWrapper_Prefix.pch -c /Users/Joshua/Documents/DribbbleWrapper/DribbbleWrapper.m -o /Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/DribbbleWrapper.o0#
+
+CCompileC build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/DribbbleWrapper.o /Users/joshuarussell/Desktop/DribbbleWrapper/DribbbleWrapper.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303258025.632960
+e303258025.747377
+r1
+xCompileC
+xbuild/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/DribbbleWrapper.o
+x/Users/joshuarussell/Desktop/DribbbleWrapper/DribbbleWrapper.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/joshuarussell/Desktop/DribbbleWrapper/DribbbleWrapper.m303258025#303258025#0(0"0(0#0#62"/Users/joshuarussell/Desktop/DribbbleWrapper/DribbbleWrapper.m8616342336#1698"    cd /Users/joshuarussell/Desktop/DribbbleWrapper    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-generated-files.hmap -I/Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-own-target-headers.hmap -I/Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-all-target-headers.hmap -iquote /Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-project-headers.hmap -F/Users/joshuarussell/Desktop/DribbbleWrapper/build/Debug -I/Users/joshuarussell/Desktop/DribbbleWrapper/build/Debug/include -I/Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources/x86_64 -I/Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources -include /var/folders/7o/7op+-0n0HueMdeJybqIJR++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DribbbleWrapper_Prefix-fzobovztiqxfqacrjchonfgmgdqo/DribbbleWrapper_Prefix.pch -c /Users/joshuarussell/Desktop/DribbbleWrapper/DribbbleWrapper.m -o /Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/DribbbleWrapper.o0#
+
+CCompileC build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/NSObject+SBJSON.o /Users/Joshua/Desktop/DribbbleWrapper/JSON/NSObject+SBJSON.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303261887.438737
+e303261887.539091
+r1
+xCompileC
+xbuild/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/NSObject+SBJSON.o
+x/Users/Joshua/Desktop/DribbbleWrapper/JSON/NSObject+SBJSON.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/Joshua/Desktop/DribbbleWrapper/JSON/NSObject+SBJSON.m303261887#303261887#0(0"0(0#0#60"/Users/Joshua/Desktop/DribbbleWrapper/JSON/NSObject+SBJSON.m8604295424#1626"    cd /Users/Joshua/Desktop/DribbbleWrapper    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-generated-files.hmap -I/Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-own-target-headers.hmap -I/Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-all-target-headers.hmap -iquote /Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-project-headers.hmap -F/Users/Joshua/Desktop/DribbbleWrapper/build/Debug -I/Users/Joshua/Desktop/DribbbleWrapper/build/Debug/include -I/Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources/x86_64 -I/Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources -include /var/folders/e7/e7ZBYbBBEzWFZiB2pQa64k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DribbbleWrapper_Prefix-fitycslrciipiddvzwobusbmelyh/DribbbleWrapper_Prefix.pch -c /Users/Joshua/Desktop/DribbbleWrapper/JSON/NSObject+SBJSON.m -o /Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/NSObject+SBJSON.o0#
+
+CCompileC build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/NSObject+SBJSON.o /Users/Joshua/Documents/DribbbleWrapper/JSON/NSObject+SBJSON.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303265351.204548
+e303265351.307334
+r1
+xCompileC
+xbuild/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/NSObject+SBJSON.o
+x/Users/Joshua/Documents/DribbbleWrapper/JSON/NSObject+SBJSON.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/Joshua/Documents/DribbbleWrapper/JSON/NSObject+SBJSON.m303265351#303265351#0(0"0(0#0#62"/Users/Joshua/Documents/DribbbleWrapper/JSON/NSObject+SBJSON.m8600790496#1648"    cd /Users/Joshua/Documents/DribbbleWrapper    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-generated-files.hmap -I/Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-own-target-headers.hmap -I/Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-all-target-headers.hmap -iquote /Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-project-headers.hmap -F/Users/Joshua/Documents/DribbbleWrapper/build/Debug -I/Users/Joshua/Documents/DribbbleWrapper/build/Debug/include -I/Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources/x86_64 -I/Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources -include /var/folders/e7/e7ZBYbBBEzWFZiB2pQa64k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DribbbleWrapper_Prefix-aktxogsrtpfswzdaeayzmbhesdxz/DribbbleWrapper_Prefix.pch -c /Users/Joshua/Documents/DribbbleWrapper/JSON/NSObject+SBJSON.m -o /Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/NSObject+SBJSON.o0#
+
+CCompileC build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/NSObject+SBJSON.o /Users/Joshua/Documents/ObjectiveDribble/JSON/NSObject+SBJSON.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/NSObject+SBJSON.o /Users/joshuarussell/Desktop/DribbbleWrapper/JSON/NSObject+SBJSON.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303209840.551682
+e303209840.776873
+r1
+xCompileC
+xbuild/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/NSObject+SBJSON.o
+x/Users/joshuarussell/Desktop/DribbbleWrapper/JSON/NSObject+SBJSON.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/joshuarussell/Desktop/DribbbleWrapper/JSON/NSObject+SBJSON.m303209840#303209840#0(0"0(0#0#67"/Users/joshuarussell/Desktop/DribbbleWrapper/JSON/NSObject+SBJSON.m8590218944#1703"    cd /Users/joshuarussell/Desktop/DribbbleWrapper    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-generated-files.hmap -I/Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-own-target-headers.hmap -I/Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-all-target-headers.hmap -iquote /Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-project-headers.hmap -F/Users/joshuarussell/Desktop/DribbbleWrapper/build/Debug -I/Users/joshuarussell/Desktop/DribbbleWrapper/build/Debug/include -I/Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources/x86_64 -I/Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources -include /var/folders/7o/7op+-0n0HueMdeJybqIJR++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DribbbleWrapper_Prefix-fzobovztiqxfqacrjchonfgmgdqo/DribbbleWrapper_Prefix.pch -c /Users/joshuarussell/Desktop/DribbbleWrapper/JSON/NSObject+SBJSON.m -o /Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/NSObject+SBJSON.o0#
+
+CCompileC build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/NSString+SBJSON.o /Users/Joshua/Desktop/DribbbleWrapper/JSON/NSString+SBJSON.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303261887.539169
+e303261887.647838
+r1
+xCompileC
+xbuild/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/NSString+SBJSON.o
+x/Users/Joshua/Desktop/DribbbleWrapper/JSON/NSString+SBJSON.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/Joshua/Desktop/DribbbleWrapper/JSON/NSString+SBJSON.m303261887#303261887#0(0"0(0#0#60"/Users/Joshua/Desktop/DribbbleWrapper/JSON/NSString+SBJSON.m8604117568#1626"    cd /Users/Joshua/Desktop/DribbbleWrapper    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-generated-files.hmap -I/Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-own-target-headers.hmap -I/Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-all-target-headers.hmap -iquote /Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-project-headers.hmap -F/Users/Joshua/Desktop/DribbbleWrapper/build/Debug -I/Users/Joshua/Desktop/DribbbleWrapper/build/Debug/include -I/Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources/x86_64 -I/Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources -include /var/folders/e7/e7ZBYbBBEzWFZiB2pQa64k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DribbbleWrapper_Prefix-fitycslrciipiddvzwobusbmelyh/DribbbleWrapper_Prefix.pch -c /Users/Joshua/Desktop/DribbbleWrapper/JSON/NSString+SBJSON.m -o /Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/NSString+SBJSON.o0#
+
+CCompileC build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/NSString+SBJSON.o /Users/Joshua/Documents/DribbbleWrapper/JSON/NSString+SBJSON.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303265351.307430
+e303265351.459652
+r1
+xCompileC
+xbuild/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/NSString+SBJSON.o
+x/Users/Joshua/Documents/DribbbleWrapper/JSON/NSString+SBJSON.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/Joshua/Documents/DribbbleWrapper/JSON/NSString+SBJSON.m303265351#303265351#0(0"0(0#0#62"/Users/Joshua/Documents/DribbbleWrapper/JSON/NSString+SBJSON.m8618447040#1648"    cd /Users/Joshua/Documents/DribbbleWrapper    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-generated-files.hmap -I/Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-own-target-headers.hmap -I/Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-all-target-headers.hmap -iquote /Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-project-headers.hmap -F/Users/Joshua/Documents/DribbbleWrapper/build/Debug -I/Users/Joshua/Documents/DribbbleWrapper/build/Debug/include -I/Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources/x86_64 -I/Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources -include /var/folders/e7/e7ZBYbBBEzWFZiB2pQa64k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DribbbleWrapper_Prefix-aktxogsrtpfswzdaeayzmbhesdxz/DribbbleWrapper_Prefix.pch -c /Users/Joshua/Documents/DribbbleWrapper/JSON/NSString+SBJSON.m -o /Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/NSString+SBJSON.o0#
+
+CCompileC build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/NSString+SBJSON.o /Users/Joshua/Documents/ObjectiveDribble/JSON/NSString+SBJSON.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/NSString+SBJSON.o /Users/joshuarussell/Desktop/DribbbleWrapper/JSON/NSString+SBJSON.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303209840.749405
+e303209840.933204
+r1
+xCompileC
+xbuild/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/NSString+SBJSON.o
+x/Users/joshuarussell/Desktop/DribbbleWrapper/JSON/NSString+SBJSON.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/joshuarussell/Desktop/DribbbleWrapper/JSON/NSString+SBJSON.m303209840#303209840#0(0"0(0#0#67"/Users/joshuarussell/Desktop/DribbbleWrapper/JSON/NSString+SBJSON.m8621728192#1703"    cd /Users/joshuarussell/Desktop/DribbbleWrapper    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-generated-files.hmap -I/Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-own-target-headers.hmap -I/Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-all-target-headers.hmap -iquote /Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-project-headers.hmap -F/Users/joshuarussell/Desktop/DribbbleWrapper/build/Debug -I/Users/joshuarussell/Desktop/DribbbleWrapper/build/Debug/include -I/Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources/x86_64 -I/Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources -include /var/folders/7o/7op+-0n0HueMdeJybqIJR++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DribbbleWrapper_Prefix-fzobovztiqxfqacrjchonfgmgdqo/DribbbleWrapper_Prefix.pch -c /Users/joshuarussell/Desktop/DribbbleWrapper/JSON/NSString+SBJSON.m -o /Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/NSString+SBJSON.o0#
+
+CCompileC build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/Player.o /Users/Joshua/Desktop/DribbbleWrapper/Player.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303265181.374003
+e303265181.708771
+r1
+xCompileC
+xbuild/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/Player.o
+x/Users/Joshua/Desktop/DribbbleWrapper/Player.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/Joshua/Desktop/DribbbleWrapper/Player.m303265181#303265181#0(0"0(0#0#46"/Users/Joshua/Desktop/DribbbleWrapper/Player.m8618638880#1603"    cd /Users/Joshua/Desktop/DribbbleWrapper    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-generated-files.hmap -I/Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-own-target-headers.hmap -I/Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-all-target-headers.hmap -iquote /Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-project-headers.hmap -F/Users/Joshua/Desktop/DribbbleWrapper/build/Debug -I/Users/Joshua/Desktop/DribbbleWrapper/build/Debug/include -I/Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources/x86_64 -I/Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources -include /var/folders/e7/e7ZBYbBBEzWFZiB2pQa64k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DribbbleWrapper_Prefix-fitycslrciipiddvzwobusbmelyh/DribbbleWrapper_Prefix.pch -c /Users/Joshua/Desktop/DribbbleWrapper/Player.m -o /Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/Player.o0#
+
+CCompileC build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/Player.o /Users/Joshua/Documents/DribbbleWrapper/Player.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303277122.857286
+e303277123.115208
+r1
+xCompileC
+xbuild/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/Player.o
+x/Users/Joshua/Documents/DribbbleWrapper/Player.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/Joshua/Documents/DribbbleWrapper/Player.m303277122#303277123#0(0"0(0#0#48"/Users/Joshua/Documents/DribbbleWrapper/Player.m8606851680#1625"    cd /Users/Joshua/Documents/DribbbleWrapper    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-generated-files.hmap -I/Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-own-target-headers.hmap -I/Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-all-target-headers.hmap -iquote /Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-project-headers.hmap -F/Users/Joshua/Documents/DribbbleWrapper/build/Debug -I/Users/Joshua/Documents/DribbbleWrapper/build/Debug/include -I/Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources/x86_64 -I/Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources -include /var/folders/e7/e7ZBYbBBEzWFZiB2pQa64k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DribbbleWrapper_Prefix-aktxogsrtpfswzdaeayzmbhesdxz/DribbbleWrapper_Prefix.pch -c /Users/Joshua/Documents/DribbbleWrapper/Player.m -o /Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/Player.o0#
+
+CCompileC build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/Player.o /Users/Joshua/Documents/ObjectiveDribble/Player.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/Player.o /Users/joshuarussell/Desktop/DribbbleWrapper/Player.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303258011.875427
+e303258012.057418
+r1
+xCompileC
+xbuild/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/Player.o
+x/Users/joshuarussell/Desktop/DribbbleWrapper/Player.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/joshuarussell/Desktop/DribbbleWrapper/Player.m303258011#303258012#0(0"0(0#0#53"/Users/joshuarussell/Desktop/DribbbleWrapper/Player.m8603190016#1680"    cd /Users/joshuarussell/Desktop/DribbbleWrapper    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-generated-files.hmap -I/Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-own-target-headers.hmap -I/Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-all-target-headers.hmap -iquote /Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-project-headers.hmap -F/Users/joshuarussell/Desktop/DribbbleWrapper/build/Debug -I/Users/joshuarussell/Desktop/DribbbleWrapper/build/Debug/include -I/Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources/x86_64 -I/Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources -include /var/folders/7o/7op+-0n0HueMdeJybqIJR++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DribbbleWrapper_Prefix-fzobovztiqxfqacrjchonfgmgdqo/DribbbleWrapper_Prefix.pch -c /Users/joshuarussell/Desktop/DribbbleWrapper/Player.m -o /Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/Player.o0#
+
+CCompileC build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/SBJsonBase.o /Users/Joshua/Desktop/DribbbleWrapper/JSON/SBJsonBase.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303261887.561399
+e303261887.676155
+r1
+xCompileC
+xbuild/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/SBJsonBase.o
+x/Users/Joshua/Desktop/DribbbleWrapper/JSON/SBJsonBase.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/Joshua/Desktop/DribbbleWrapper/JSON/SBJsonBase.m303261887#303261887#0(0"0(0#0#55"/Users/Joshua/Desktop/DribbbleWrapper/JSON/SBJsonBase.m8605169056#1616"    cd /Users/Joshua/Desktop/DribbbleWrapper    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-generated-files.hmap -I/Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-own-target-headers.hmap -I/Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-all-target-headers.hmap -iquote /Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-project-headers.hmap -F/Users/Joshua/Desktop/DribbbleWrapper/build/Debug -I/Users/Joshua/Desktop/DribbbleWrapper/build/Debug/include -I/Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources/x86_64 -I/Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources -include /var/folders/e7/e7ZBYbBBEzWFZiB2pQa64k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DribbbleWrapper_Prefix-fitycslrciipiddvzwobusbmelyh/DribbbleWrapper_Prefix.pch -c /Users/Joshua/Desktop/DribbbleWrapper/JSON/SBJsonBase.m -o /Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/SBJsonBase.o0#
+
+CCompileC build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/SBJsonBase.o /Users/Joshua/Documents/DribbbleWrapper/JSON/SBJsonBase.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303265351.348118
+e303265351.481868
+r1
+xCompileC
+xbuild/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/SBJsonBase.o
+x/Users/Joshua/Documents/DribbbleWrapper/JSON/SBJsonBase.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/Joshua/Documents/DribbbleWrapper/JSON/SBJsonBase.m303265351#303265351#0(0"0(0#0#57"/Users/Joshua/Documents/DribbbleWrapper/JSON/SBJsonBase.m8615584320#1638"    cd /Users/Joshua/Documents/DribbbleWrapper    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-generated-files.hmap -I/Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-own-target-headers.hmap -I/Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-all-target-headers.hmap -iquote /Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-project-headers.hmap -F/Users/Joshua/Documents/DribbbleWrapper/build/Debug -I/Users/Joshua/Documents/DribbbleWrapper/build/Debug/include -I/Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources/x86_64 -I/Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources -include /var/folders/e7/e7ZBYbBBEzWFZiB2pQa64k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DribbbleWrapper_Prefix-aktxogsrtpfswzdaeayzmbhesdxz/DribbbleWrapper_Prefix.pch -c /Users/Joshua/Documents/DribbbleWrapper/JSON/SBJsonBase.m -o /Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/SBJsonBase.o0#
+
+CCompileC build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/SBJsonBase.o /Users/Joshua/Documents/ObjectiveDribble/JSON/SBJsonBase.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/SBJsonBase.o /Users/joshuarussell/Desktop/DribbbleWrapper/JSON/SBJsonBase.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303209840.776974
+e303209840.965732
+r1
+xCompileC
+xbuild/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/SBJsonBase.o
+x/Users/joshuarussell/Desktop/DribbbleWrapper/JSON/SBJsonBase.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/joshuarussell/Desktop/DribbbleWrapper/JSON/SBJsonBase.m303209840#303209840#0(0"0(0#0#62"/Users/joshuarussell/Desktop/DribbbleWrapper/JSON/SBJsonBase.m8621549792#1693"    cd /Users/joshuarussell/Desktop/DribbbleWrapper    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-generated-files.hmap -I/Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-own-target-headers.hmap -I/Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-all-target-headers.hmap -iquote /Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-project-headers.hmap -F/Users/joshuarussell/Desktop/DribbbleWrapper/build/Debug -I/Users/joshuarussell/Desktop/DribbbleWrapper/build/Debug/include -I/Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources/x86_64 -I/Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources -include /var/folders/7o/7op+-0n0HueMdeJybqIJR++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DribbbleWrapper_Prefix-fzobovztiqxfqacrjchonfgmgdqo/DribbbleWrapper_Prefix.pch -c /Users/joshuarussell/Desktop/DribbbleWrapper/JSON/SBJsonBase.m -o /Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/SBJsonBase.o0#
+
+CCompileC build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/SBJsonParser.o /Users/Joshua/Desktop/DribbbleWrapper/JSON/SBJsonParser.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303261887.647929
+e303261887.822580
+r1
+xCompileC
+xbuild/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/SBJsonParser.o
+x/Users/Joshua/Desktop/DribbbleWrapper/JSON/SBJsonParser.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/Joshua/Desktop/DribbbleWrapper/JSON/SBJsonParser.m303261887#303261887#0(0"0(0#0#57"/Users/Joshua/Desktop/DribbbleWrapper/JSON/SBJsonParser.m8605085984#1620"    cd /Users/Joshua/Desktop/DribbbleWrapper    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-generated-files.hmap -I/Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-own-target-headers.hmap -I/Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-all-target-headers.hmap -iquote /Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-project-headers.hmap -F/Users/Joshua/Desktop/DribbbleWrapper/build/Debug -I/Users/Joshua/Desktop/DribbbleWrapper/build/Debug/include -I/Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources/x86_64 -I/Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources -include /var/folders/e7/e7ZBYbBBEzWFZiB2pQa64k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DribbbleWrapper_Prefix-fitycslrciipiddvzwobusbmelyh/DribbbleWrapper_Prefix.pch -c /Users/Joshua/Desktop/DribbbleWrapper/JSON/SBJsonParser.m -o /Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/SBJsonParser.o0#
+
+CCompileC build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/SBJsonParser.o /Users/Joshua/Documents/DribbbleWrapper/JSON/SBJsonParser.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303265351.459734
+e303265351.707338
+r1
+xCompileC
+xbuild/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/SBJsonParser.o
+x/Users/Joshua/Documents/DribbbleWrapper/JSON/SBJsonParser.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/Joshua/Documents/DribbbleWrapper/JSON/SBJsonParser.m303265351#303265351#0(0"0(0#0#59"/Users/Joshua/Documents/DribbbleWrapper/JSON/SBJsonParser.m8601389024#1642"    cd /Users/Joshua/Documents/DribbbleWrapper    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-generated-files.hmap -I/Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-own-target-headers.hmap -I/Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-all-target-headers.hmap -iquote /Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-project-headers.hmap -F/Users/Joshua/Documents/DribbbleWrapper/build/Debug -I/Users/Joshua/Documents/DribbbleWrapper/build/Debug/include -I/Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources/x86_64 -I/Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources -include /var/folders/e7/e7ZBYbBBEzWFZiB2pQa64k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DribbbleWrapper_Prefix-aktxogsrtpfswzdaeayzmbhesdxz/DribbbleWrapper_Prefix.pch -c /Users/Joshua/Documents/DribbbleWrapper/JSON/SBJsonParser.m -o /Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/SBJsonParser.o0#
+
+CCompileC build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/SBJsonParser.o /Users/Joshua/Documents/ObjectiveDribble/JSON/SBJsonParser.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/SBJsonParser.o /Users/joshuarussell/Desktop/DribbbleWrapper/JSON/SBJsonParser.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303209840.933310
+e303209841.210187
+r1
+xCompileC
+xbuild/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/SBJsonParser.o
+x/Users/joshuarussell/Desktop/DribbbleWrapper/JSON/SBJsonParser.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/joshuarussell/Desktop/DribbbleWrapper/JSON/SBJsonParser.m303209840#303209841#0(0"0(0#0#64"/Users/joshuarussell/Desktop/DribbbleWrapper/JSON/SBJsonParser.m8616964576#1697"    cd /Users/joshuarussell/Desktop/DribbbleWrapper    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-generated-files.hmap -I/Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-own-target-headers.hmap -I/Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-all-target-headers.hmap -iquote /Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-project-headers.hmap -F/Users/joshuarussell/Desktop/DribbbleWrapper/build/Debug -I/Users/joshuarussell/Desktop/DribbbleWrapper/build/Debug/include -I/Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources/x86_64 -I/Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources -include /var/folders/7o/7op+-0n0HueMdeJybqIJR++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DribbbleWrapper_Prefix-fzobovztiqxfqacrjchonfgmgdqo/DribbbleWrapper_Prefix.pch -c /Users/joshuarussell/Desktop/DribbbleWrapper/JSON/SBJsonParser.m -o /Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/SBJsonParser.o0#
+
+CCompileC build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/SBJsonWriter.o /Users/Joshua/Desktop/DribbbleWrapper/JSON/SBJsonWriter.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303261887.676242
+e303261887.818857
+r1
+xCompileC
+xbuild/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/SBJsonWriter.o
+x/Users/Joshua/Desktop/DribbbleWrapper/JSON/SBJsonWriter.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/Joshua/Desktop/DribbbleWrapper/JSON/SBJsonWriter.m303261887#303261887#0(0"0(0#0#57"/Users/Joshua/Desktop/DribbbleWrapper/JSON/SBJsonWriter.m8604857216#1620"    cd /Users/Joshua/Desktop/DribbbleWrapper    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-generated-files.hmap -I/Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-own-target-headers.hmap -I/Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-all-target-headers.hmap -iquote /Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-project-headers.hmap -F/Users/Joshua/Desktop/DribbbleWrapper/build/Debug -I/Users/Joshua/Desktop/DribbbleWrapper/build/Debug/include -I/Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources/x86_64 -I/Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources -include /var/folders/e7/e7ZBYbBBEzWFZiB2pQa64k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DribbbleWrapper_Prefix-fitycslrciipiddvzwobusbmelyh/DribbbleWrapper_Prefix.pch -c /Users/Joshua/Desktop/DribbbleWrapper/JSON/SBJsonWriter.m -o /Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/SBJsonWriter.o0#
+
+CCompileC build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/SBJsonWriter.o /Users/Joshua/Documents/DribbbleWrapper/JSON/SBJsonWriter.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303265351.481957
+e303265351.639677
+r1
+xCompileC
+xbuild/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/SBJsonWriter.o
+x/Users/Joshua/Documents/DribbbleWrapper/JSON/SBJsonWriter.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/Joshua/Documents/DribbbleWrapper/JSON/SBJsonWriter.m303265351#303265351#0(0"0(0#0#59"/Users/Joshua/Documents/DribbbleWrapper/JSON/SBJsonWriter.m8600061056#1642"    cd /Users/Joshua/Documents/DribbbleWrapper    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-generated-files.hmap -I/Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-own-target-headers.hmap -I/Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-all-target-headers.hmap -iquote /Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-project-headers.hmap -F/Users/Joshua/Documents/DribbbleWrapper/build/Debug -I/Users/Joshua/Documents/DribbbleWrapper/build/Debug/include -I/Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources/x86_64 -I/Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources -include /var/folders/e7/e7ZBYbBBEzWFZiB2pQa64k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DribbbleWrapper_Prefix-aktxogsrtpfswzdaeayzmbhesdxz/DribbbleWrapper_Prefix.pch -c /Users/Joshua/Documents/DribbbleWrapper/JSON/SBJsonWriter.m -o /Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/SBJsonWriter.o0#
+
+CCompileC build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/SBJsonWriter.o /Users/Joshua/Documents/ObjectiveDribble/JSON/SBJsonWriter.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/SBJsonWriter.o /Users/joshuarussell/Desktop/DribbbleWrapper/JSON/SBJsonWriter.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303209840.965847
+e303209841.165436
+r1
+xCompileC
+xbuild/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/SBJsonWriter.o
+x/Users/joshuarussell/Desktop/DribbbleWrapper/JSON/SBJsonWriter.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/joshuarussell/Desktop/DribbbleWrapper/JSON/SBJsonWriter.m303209840#303209841#0(0"0(0#0#64"/Users/joshuarussell/Desktop/DribbbleWrapper/JSON/SBJsonWriter.m8616742784#1697"    cd /Users/joshuarussell/Desktop/DribbbleWrapper    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-generated-files.hmap -I/Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-own-target-headers.hmap -I/Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-all-target-headers.hmap -iquote /Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-project-headers.hmap -F/Users/joshuarussell/Desktop/DribbbleWrapper/build/Debug -I/Users/joshuarussell/Desktop/DribbbleWrapper/build/Debug/include -I/Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources/x86_64 -I/Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources -include /var/folders/7o/7op+-0n0HueMdeJybqIJR++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DribbbleWrapper_Prefix-fzobovztiqxfqacrjchonfgmgdqo/DribbbleWrapper_Prefix.pch -c /Users/joshuarussell/Desktop/DribbbleWrapper/JSON/SBJsonWriter.m -o /Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/SBJsonWriter.o0#
+
+CCompileC build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/Shot.o /Users/Joshua/Desktop/DribbbleWrapper/Shot.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303265181.176791
+e303265181.584064
+r1
+xCompileC
+xbuild/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/Shot.o
+x/Users/Joshua/Desktop/DribbbleWrapper/Shot.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/Joshua/Desktop/DribbbleWrapper/Shot.m303265181#303265181#0(0"0(0#0#44"/Users/Joshua/Desktop/DribbbleWrapper/Shot.m8625577344#1599"    cd /Users/Joshua/Desktop/DribbbleWrapper    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-generated-files.hmap -I/Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-own-target-headers.hmap -I/Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-all-target-headers.hmap -iquote /Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-project-headers.hmap -F/Users/Joshua/Desktop/DribbbleWrapper/build/Debug -I/Users/Joshua/Desktop/DribbbleWrapper/build/Debug/include -I/Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources/x86_64 -I/Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources -include /var/folders/e7/e7ZBYbBBEzWFZiB2pQa64k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DribbbleWrapper_Prefix-fitycslrciipiddvzwobusbmelyh/DribbbleWrapper_Prefix.pch -c /Users/Joshua/Desktop/DribbbleWrapper/Shot.m -o /Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/Shot.o0#
+
+CCompileC build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/Shot.o /Users/Joshua/Documents/DribbbleWrapper/Shot.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303277159.780199
+e303277159.903412
+r1
+xCompileC
+xbuild/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/Shot.o
+x/Users/Joshua/Documents/DribbbleWrapper/Shot.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/Joshua/Documents/DribbbleWrapper/Shot.m303277159#303277159#0(0"0(0#0#46"/Users/Joshua/Documents/DribbbleWrapper/Shot.m8620298400#1621"    cd /Users/Joshua/Documents/DribbbleWrapper    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-generated-files.hmap -I/Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-own-target-headers.hmap -I/Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-all-target-headers.hmap -iquote /Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-project-headers.hmap -F/Users/Joshua/Documents/DribbbleWrapper/build/Debug -I/Users/Joshua/Documents/DribbbleWrapper/build/Debug/include -I/Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources/x86_64 -I/Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources -include /var/folders/e7/e7ZBYbBBEzWFZiB2pQa64k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DribbbleWrapper_Prefix-aktxogsrtpfswzdaeayzmbhesdxz/DribbbleWrapper_Prefix.pch -c /Users/Joshua/Documents/DribbbleWrapper/Shot.m -o /Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/Shot.o0#
+
+CCompileC build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/Shot.o /Users/Joshua/Documents/ObjectiveDribble/Shot.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/Shot.o /Users/joshuarussell/Desktop/DribbbleWrapper/Shot.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303257252.258269
+e303257252.425781
+r1
+xCompileC
+xbuild/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/Shot.o
+x/Users/joshuarussell/Desktop/DribbbleWrapper/Shot.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/joshuarussell/Desktop/DribbbleWrapper/Shot.m303257252#303257252#0(0"0(0#0#51"/Users/joshuarussell/Desktop/DribbbleWrapper/Shot.m8611640128#1676"    cd /Users/joshuarussell/Desktop/DribbbleWrapper    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-generated-files.hmap -I/Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-own-target-headers.hmap -I/Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-all-target-headers.hmap -iquote /Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-project-headers.hmap -F/Users/joshuarussell/Desktop/DribbbleWrapper/build/Debug -I/Users/joshuarussell/Desktop/DribbbleWrapper/build/Debug/include -I/Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources/x86_64 -I/Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources -include /var/folders/7o/7op+-0n0HueMdeJybqIJR++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DribbbleWrapper_Prefix-fzobovztiqxfqacrjchonfgmgdqo/DribbbleWrapper_Prefix.pch -c /Users/joshuarussell/Desktop/DribbbleWrapper/Shot.m -o /Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/Shot.o0#
+
+CCompileC build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/main.o /Users/Joshua/Documents/DribbbleWrapper/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303277403.296945
+e303277403.386578
+r1
+xCompileC
+xbuild/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/main.o
+x/Users/Joshua/Documents/DribbbleWrapper/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/Joshua/Documents/DribbbleWrapper/main.m303277403#303277403#0(0"0(0#0#46"/Users/Joshua/Documents/DribbbleWrapper/main.m8620256320#1621"    cd /Users/Joshua/Documents/DribbbleWrapper    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-generated-files.hmap -I/Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-own-target-headers.hmap -I/Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-all-target-headers.hmap -iquote /Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-project-headers.hmap -F/Users/Joshua/Documents/DribbbleWrapper/build/Debug -I/Users/Joshua/Documents/DribbbleWrapper/build/Debug/include -I/Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources/x86_64 -I/Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources -include /var/folders/e7/e7ZBYbBBEzWFZiB2pQa64k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DribbbleWrapper_Prefix-aktxogsrtpfswzdaeayzmbhesdxz/DribbbleWrapper_Prefix.pch -c /Users/Joshua/Documents/DribbbleWrapper/main.m -o /Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/main.o0#
+
+CCompileC build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/main.o /Users/Joshua/Documents/ObjectiveDribble/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CLd /Users/Joshua/Desktop/DribbbleWrapper/build/Debug/DribbbleWrapper normal x86_64
+s303265181.708844
+e303265181.730593
+r1
+xLd
+x/Users/Joshua/Desktop/DribbbleWrapper/build/Debug/DribbbleWrapper
+xnormal
+xx86_64
+lSLF07#2@70"Link /Users/Joshua/Desktop/DribbbleWrapper/build/Debug/DribbbleWrapper303265181#303265181#0(0"0(0#0#0"8618729088#547"    cd /Users/Joshua/Desktop/DribbbleWrapper    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/Joshua/Desktop/DribbbleWrapper/build/Debug -F/Users/Joshua/Desktop/DribbbleWrapper/build/Debug -filelist /Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/DribbbleWrapper.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/Joshua/Desktop/DribbbleWrapper/build/Debug/DribbbleWrapper0#
+
+CLd /Users/Joshua/Documents/DribbbleWrapper/build/Debug/DribbbleWrapper normal x86_64
+s303277403.386649
+e303277403.406494
+r1
+xLd
+x/Users/Joshua/Documents/DribbbleWrapper/build/Debug/DribbbleWrapper
+xnormal
+xx86_64
+lSLF07#2@72"Link /Users/Joshua/Documents/DribbbleWrapper/build/Debug/DribbbleWrapper303277403#303277403#0(0"0(0#0#0"8616495712#557"    cd /Users/Joshua/Documents/DribbbleWrapper    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/Joshua/Documents/DribbbleWrapper/build/Debug -F/Users/Joshua/Documents/DribbbleWrapper/build/Debug -filelist /Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/DribbbleWrapper.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/Joshua/Documents/DribbbleWrapper/build/Debug/DribbbleWrapper0#
+
+CLd /Users/Joshua/Documents/ObjectiveDribble/build/Debug/DribbbleWrapper normal x86_64
+r0
+
+CLd /Users/joshuarussell/Desktop/DribbbleWrapper/build/Debug/DribbbleWrapper normal x86_64
+s303258025.747467
+e303258025.774106
+r1
+xLd
+x/Users/joshuarussell/Desktop/DribbbleWrapper/build/Debug/DribbbleWrapper
+xnormal
+xx86_64
+lSLF07#2@77"Link /Users/joshuarussell/Desktop/DribbbleWrapper/build/Debug/DribbbleWrapper303258025#303258025#0(0"0(0#0#0"8603043008#582"    cd /Users/joshuarussell/Desktop/DribbbleWrapper    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/joshuarussell/Desktop/DribbbleWrapper/build/Debug -F/Users/joshuarussell/Desktop/DribbbleWrapper/build/Debug -filelist /Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/Objects-normal/x86_64/DribbbleWrapper.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/joshuarussell/Desktop/DribbbleWrapper/build/Debug/DribbbleWrapper0#
+
+CProcessPCH /var/folders/7o/7op+-0n0HueMdeJybqIJR++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DribbbleWrapper_Prefix-fzobovztiqxfqacrjchonfgmgdqo/DribbbleWrapper_Prefix.pch.gch DribbbleWrapper_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303206870.713321
+e303206873.127080
+r1
+xProcessPCH
+x/var/folders/7o/7op+-0n0HueMdeJybqIJR++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DribbbleWrapper_Prefix-fzobovztiqxfqacrjchonfgmgdqo/DribbbleWrapper_Prefix.pch.gch
+xDribbbleWrapper_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile DribbbleWrapper_Prefix.pch303206870#303206873#0(0"0(0#0#71"/Users/joshuarussell/Desktop/DribbbleWrapper/DribbbleWrapper_Prefix.pch8618917664#1568"    cd /Users/joshuarussell/Desktop/DribbbleWrapper    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-generated-files.hmap -I/Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-own-target-headers.hmap -I/Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-all-target-headers.hmap -iquote /Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-project-headers.hmap -F/Users/joshuarussell/Desktop/DribbbleWrapper/build/Debug -I/Users/joshuarussell/Desktop/DribbbleWrapper/build/Debug/include -I/Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources/x86_64 -I/Users/joshuarussell/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources -c /Users/joshuarussell/Desktop/DribbbleWrapper/DribbbleWrapper_Prefix.pch -o /var/folders/7o/7op+-0n0HueMdeJybqIJR++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DribbbleWrapper_Prefix-fzobovztiqxfqacrjchonfgmgdqo/DribbbleWrapper_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/e7/e7ZBYbBBEzWFZiB2pQa64k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DribbbleWrapper_Prefix-aktxogsrtpfswzdaeayzmbhesdxz/DribbbleWrapper_Prefix.pch.gch DribbbleWrapper_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303265349.339746
+e303265351.072536
+r1
+xProcessPCH
+x/var/folders/e7/e7ZBYbBBEzWFZiB2pQa64k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DribbbleWrapper_Prefix-aktxogsrtpfswzdaeayzmbhesdxz/DribbbleWrapper_Prefix.pch.gch
+xDribbbleWrapper_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile DribbbleWrapper_Prefix.pch303265349#303265351#0(0"0(0#0#66"/Users/Joshua/Documents/DribbbleWrapper/DribbbleWrapper_Prefix.pch8239165559479100416#1518"    cd /Users/Joshua/Documents/DribbbleWrapper    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-generated-files.hmap -I/Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-own-target-headers.hmap -I/Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-all-target-headers.hmap -iquote /Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-project-headers.hmap -F/Users/Joshua/Documents/DribbbleWrapper/build/Debug -I/Users/Joshua/Documents/DribbbleWrapper/build/Debug/include -I/Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources/x86_64 -I/Users/Joshua/Documents/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources -c /Users/Joshua/Documents/DribbbleWrapper/DribbbleWrapper_Prefix.pch -o /var/folders/e7/e7ZBYbBBEzWFZiB2pQa64k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DribbbleWrapper_Prefix-aktxogsrtpfswzdaeayzmbhesdxz/DribbbleWrapper_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/e7/e7ZBYbBBEzWFZiB2pQa64k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DribbbleWrapper_Prefix-fitycslrciipiddvzwobusbmelyh/DribbbleWrapper_Prefix.pch.gch DribbbleWrapper_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303261885.473048
+e303261887.258743
+r1
+xProcessPCH
+x/var/folders/e7/e7ZBYbBBEzWFZiB2pQa64k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DribbbleWrapper_Prefix-fitycslrciipiddvzwobusbmelyh/DribbbleWrapper_Prefix.pch.gch
+xDribbbleWrapper_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile DribbbleWrapper_Prefix.pch303261885#303261887#0(0"0(0#0#64"/Users/Joshua/Desktop/DribbbleWrapper/DribbbleWrapper_Prefix.pch8239165559479100416#1498"    cd /Users/Joshua/Desktop/DribbbleWrapper    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-generated-files.hmap -I/Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-own-target-headers.hmap -I/Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-all-target-headers.hmap -iquote /Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DribbbleWrapper-project-headers.hmap -F/Users/Joshua/Desktop/DribbbleWrapper/build/Debug -I/Users/Joshua/Desktop/DribbbleWrapper/build/Debug/include -I/Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources/x86_64 -I/Users/Joshua/Desktop/DribbbleWrapper/build/DribbbleWrapper.build/Debug/DribbbleWrapper.build/DerivedSources -c /Users/Joshua/Desktop/DribbbleWrapper/DribbbleWrapper_Prefix.pch -o /var/folders/e7/e7ZBYbBBEzWFZiB2pQa64k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DribbbleWrapper_Prefix-fitycslrciipiddvzwobusbmelyh/DribbbleWrapper_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/e7/e7ZBYbBBEzWFZiB2pQa64k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DribbbleWrapper_Prefix-hesuhhbaprmptzgvzdxvxowaqwhj/DribbbleWrapper_Prefix.pch.gch DribbbleWrapper_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+

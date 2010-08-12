@@ -1,0 +1,25 @@
+Objective-C Dribbble API wrapper
+Version 1.0
+
+AUTHOR
+Joshua Russell
+hello@joshuarussell.com.au
+http://www.joshuarussell.com.au
+
+THANKS
+Martin Bean, who wrote a PHP Dribbble wrapper, which this is based off.
+See: http://github.com/martinbean/dribbble-php
+
+INSTALL
+1) Copy the "models" folder into your project.
+2) Link to the Base.h, Shot.h, and Player.h files in your source code.
+3) See main.m for example usage.
+
+BUGS
+None at this stage.
+Let me know if you find some though :)
+
+COPYRIGHT
+Copyright 2010 Joshua Russell
+Software released under Creative Commons BY-SA
+See:  http://creativecommons.org/licenses/by-sa/3.0/
