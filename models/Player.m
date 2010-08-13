@@ -78,6 +78,19 @@
 
 
 
+#pragma mark - 
+#pragma mark - Player Draftees
+/*
+Returns the list of players drafted by the player specified by :playerId. 
+*/
+- (Base *) draftees:(NSMutableDictionary *)options {
+	NSString *shotURL = [[[NSString alloc] initWithString:@"/players/"] stringByAppendingFormat:@"%@/draftees",playerID];
+	results = [[Base alloc] initWithURL:shotURL andOptions:options];
+	return results;
+}
+
+
+
 #pragma mark -
 #pragma mark Memory Management
 - (void) dealloc {
