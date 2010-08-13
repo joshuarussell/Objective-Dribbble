@@ -26,4 +26,5 @@
 - (Base *) shotsByFollowers:(NSMutableDictionary *)options;
 - (Base *) followers:(NSMutableDictionary *)options;
 - (Base *) following:(NSMutableDictionary *)options;
+- (Base *) draftees:(NSMutableDictionary *)options;
 @end
