@@ -67,6 +67,11 @@ int main (int argc, const char * argv[]) {
 	// get people that player is following
 	id following = [player following:nil];
 	NSLog(@"Following: %@", following);
+
+
+	// get people that player has drafted
+	id drafted = [player draftees:nil];
+	NSLog(@"Draftees: %@", drafted);
 	
     [pool drain];
 	
